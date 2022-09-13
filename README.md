@@ -1,4 +1,4 @@
-# extra-o_de_informacoes_de_URL
+# extracao_de_informacoes_de_URL
 # Manipulação de strings em Python para extrair informações de um texto
 # Uso da classe String e seus métodos mais a fundo
 # Utilizando Expressões Regulares no Python para encontrar padrões
