@@ -4,3 +4,4 @@
 # Utilizando Expressões Regulares no Python para encontrar padrões
 # Conhecendo os métodos especiais do Python e como utilizá-los para adicionar comportamento à sua classe
 # Aplicando conhecimentos de orientação a objetos
+# f
